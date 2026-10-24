@@ -1,4 +1,4 @@
-# Streamer Incremental — Beta v0.1
+# Streamer Incremental — Beta v1.0
 
 A browser-based streamer incremental game. Open `index.html` in a modern browser to play.
 
